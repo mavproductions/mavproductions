@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://readme-typing-svg.demolab.com?font=consolas&size=12&duration=1000&pause=2000&color=F7F7F7&background=12121200&multiline=true&random=false&width=650&height=120&lines=mavproductions%3A%5C%3E+Welcome+to+my+profile;mavproductions%3A%5C%3E+My+interests+include%3A;mavproductions%3A%5C%3E+Fitness+tech%2C+Counter-Strike%2C+LAN+Party+MGMT%2C+Smart+Home+MGMT%2C+;mavproductions%3A%5C%3E+and+security+applications/deployments." alt="Typing SVG" />
 
 <!--
 **mavproductions/mavproductions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
